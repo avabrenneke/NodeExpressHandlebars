@@ -3,7 +3,7 @@ var exphbs = require("express-handlebars");
 var bodyParser = require("body-parser");                            
 var routes = require("./controllers/burgers_controller.js");      
 var app = express();                                           
-var PORT = process.env.PORT || 4040;                              
+var PORT = process.env.PORT || 8080;                              
 
 //public folder
 app.use(express.static("public"));                                
