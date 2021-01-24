@@ -1,0 +1,53 @@
+body {
+    background-size: 100%;
+    background-color: lavender;
+}
+
+.mainTitle {
+    text-align: center;
+    color: #871F78;
+    font-size: 110px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+.secondHeading {
+    color: #871F78;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+}
+
+.addBurger {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.showBurger {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.devourBurger
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.burgerForm {
+    text-align: center;
+    margin: 0 auto 3% 0;
+
+}
+
+p {
+    color: #B4089B;
+}
+
+.btn {
+    padding-top: 0px;
+}
